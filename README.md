@@ -1,4 +1,4 @@
-\# Mouse 3D Reconstruction
+# Mouse 3D Reconstruction
 
 基于多视角图像的目标三维重建与空间坐标处理项目。
 
